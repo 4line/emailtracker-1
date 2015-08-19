@@ -18,13 +18,13 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="emailtracker-1/EmailTrackerWeb/AppRead/Home/Home.html"/>
+        <SourceLocation DefaultValue="https://github.com/4line/emailtracker-1/blob/master/EmailTrackerWeb/AppRead/Home/Home.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="emailtracker-1/EmailTrackerWeb/AppCompose/Home/Home.html"/>
+        <SourceLocation DefaultValue="https://github.com/4line/emailtracker-1/blob/master/EmailTrackerWeb/AppCompose/Home/Home.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
