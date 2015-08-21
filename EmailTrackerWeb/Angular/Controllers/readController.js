@@ -10,8 +10,8 @@
 
     function hasOpened(email_id, callback) {
         var keen_client = new Keen({
-            projectId: "54f7aa2b672e6c28c07fd8a5", // String (required always)
-            readKey: "3216e90488814a5a97f9b8898248e26a50d7919f4472ffccc479b68230b1e6b4eadf8564a760f3e2da896d7afb27aed85bbc1c98348d78ca6007192be55db69708f18b41e7bef78a9f4510a4fba5e38e969181348841dd2a180da00f3c8323809be8f2d5b99098276fad7fa6cbb4b652", // String (required for querying data)
+            projectId: "55cdde1546f9a76970825c62", // String (required always)
+            readKey: "288fcbf5659ea47d675d791d5dae7d2d9048e6a18df1ffe561364b8f4672c57ef976bb1567da4f3020046982baf4d586c7c8c99f71ce70e31a647948dd6eb3446fc0e4fe48c5f2ef68c27d79f87990f9680874552a333b7c9133aaa6c66cae6de366bab827f6b80bf4066f38fe8b06cd", // String (required for querying data)
             protocol: "auto", // String (optional: https | http | auto)
             host: "api.keen.io/3.0", // String (optional)
             requestType: "jsonp" // String (optional: jsonp, xhr, beacon)
